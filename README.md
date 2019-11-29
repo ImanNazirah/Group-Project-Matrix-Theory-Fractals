@@ -26,3 +26,5 @@ For the selected fractal, provide:
 
 3. Produce your own fractals. Give a name, and provide information as above. Demonstrate its construction using animation and maplet interface if possible.
 *(In this project we do a fractal that seems like fish shape and by using graphical user interface in Matlab)
+
+For further adtional info you can refer to Group Project Matrix Theory.pdf 
